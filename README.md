@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.ibb.co/fz8gr48d/tenor.gif"  />
+<img align="right" height="200" src="https://i.ibb.co/fz8gr48d/tenor.gif"  />
 
 ###
 
@@ -59,21 +59,5 @@
 ###
 
 <p align="left">💻 Full-Stack JavaScript Web Developer<br>🎓 Computer Science<br>🏝️ Lombok, Indonesia</p>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=oyanmuhammad&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyanmuhammad&radius=16&theme=nightowl&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oyanmuhammad&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oyanmuhammad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 ###
