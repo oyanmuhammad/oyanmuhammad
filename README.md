@@ -1,8 +1,4 @@
-<h2 align="left">Oyan Muhammad | Fullstack Developer</h2>
-
-###
-
-<img align="right" height="200" src="https://i.ibb.co/fz8gr48d/tenor.gif"  />
+<h2 align="left">Oyan Muhammad</h2>
 
 ###
 
