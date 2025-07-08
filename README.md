@@ -25,11 +25,13 @@
 ###
 
 <div align="center">
-![](https://img.shields.io/badge/Binance-000?style=for-the-badge&logo=binance&logoColor=FCD535) ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=FCD535) ![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF) ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
-</div>
+
+![](https://img.shields.io/badge/Binance-000?style=for-the-badge&logo=binance&logoColor=FCD535)
+![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=FCD535)
+![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
+![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
 </div>
-
 ###
 
 <div align="center">
