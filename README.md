@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co/fz8gr48d/tenor.gif"  />
+</div>
+
+###
+
 <h1 align="center">Oyan Muhammad</h1>
 
 ###
@@ -85,13 +91,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=oyanmuhammad&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyanmuhammad/oyanmuhammad/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyanmuhammad/oyanmuhammad/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oyanmuhammad/oyanmuhammad/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
