@@ -25,6 +25,14 @@
 ###
 
 <div align="center">
+![](https://img.shields.io/badge/Binance-000?style=for-the-badge&logo=binance&logoColor=FCD535) ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=FCD535) ![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF) ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
+</div>
+
+</div>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=oyanmuhammad&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
