@@ -30,6 +30,11 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=alpinejs" height="60" alt="alpinelinux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
@@ -43,6 +48,11 @@
   <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
@@ -56,6 +66,11 @@
   <img src="https://skillicons.dev/icons?i=dynamodb" height="60" alt="amazondynamodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="vercel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=heroku" height="60" alt="heroku logo"  />
