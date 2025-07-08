@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center">💻 Full-Stack JavaScript Web Developer 💻 <br>🎓Computer Science | From Lombok, Indonesia 🌎</p>
+<p align="center">💻 Full-Stack JavaScript Web Developer 💻 <br>🎓 Computer Science | Lombok, Indonesia 🌎</p>
 
 ###
 
