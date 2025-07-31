@@ -34,7 +34,9 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=oyanmuhammad&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <a href="https://open.spotify.com/user/wrmxgyl1vr1lzcbdbrpv7irvb">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wrmxgyl1vr1lzcbdbrpv7irvb&count=1&unique=true" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
