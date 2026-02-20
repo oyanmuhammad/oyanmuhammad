@@ -7,9 +7,9 @@
 
    [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,electron,express,supabase,prisma,docker,vercel,figma&perline=6)](https://github.com/oyanmuhammad)
 
-  <h2>"In a world where you can be anything, be kind."</h2>
-  <h3>🎓 Computer Science | Lombok, Indonesia 🌎</h3>
-
+  ### "In a world where you can be anything, be kind."
+  
+  🎓 Computer Science | Lombok, Indonesia 🌎
   <p>Building my path in the JavaScript ecosystem. I enjoy turning ideas into real products, <br> learning through every bug, and slowly crafting things that actually matter. ⚡</p>
 
 <br>
