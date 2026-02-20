@@ -12,8 +12,5 @@
   🎓 Computer Science | Lombok, Indonesia 🌎
   <p>Building my path in the JavaScript ecosystem. I enjoy turning ideas into real products, <br> learning through every bug, and slowly crafting things that actually matter. ⚡</p>
 
-<br>
-<div align="center">
-  <img src="https://count.getloli.com/@:oyanmuhammad?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
-</div>
+
 </div>
