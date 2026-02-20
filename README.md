@@ -1,25 +1,59 @@
 <div align="center">
   <img height="200" src="https://i.ibb.co/fz8gr48d/tenor.gif"  />
+</div>
 
   ![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=FCD535)
   ![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
   ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-  ---
+###
 
-  <h1>Oyan Muhammad</h1>
+<h1 align="center">Oyan Muhammad</h1>
 
-  <h3>"In a world where you can be anything, be kind."</h3>
+###
 
-  <p>💻 Full-Stack JavaScript Web Developer 💻 <br>🎓 Computer Science | Lombok, Indonesia 🌎</p>
+<br clear="both">
 
-  ---
+<h2 align="center">"In a world where you can be anything, be kind."</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,figma,tailwind,vite,react,nextjs,alpinejs,nodejs,express,electron,vscode,webstorm,git,prisma,supabase,mongodb,mysql,cassandra,dynamodb,postgres,firebase,vercel,heroku,aws,azure,gcp,cloudflare&perline=7)](https://github.com/oyanmuhammad)
+<h3 align="center">🎓 Computer Science | Lombok, Indonesia 🌎</h3>
 
-  ---
+<p align="center">Building my path in the JavaScript ecosystem. I enjoy turning ideas into real products, learning through every bug, and slowly crafting things that actually matter. ⚡</p>
 
-  <a href="https://open.spotify.com/user/wrmxgyl1vr1lzcbdbrpv7irvb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=wrmxgyl1vr1lzcbdbrpv7irvb&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://count.getloli.com/@:oyanmuhammad?theme=booru-vp&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
