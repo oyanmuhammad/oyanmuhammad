@@ -5,7 +5,7 @@
   ![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
   ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-   [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,vite,electron,express,supabase,prisma,docker,vercel,figma&perline=6)](https://github.com/oyanmuhammad)
+   [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,tailwind,threejs,vite,electron,express,supabase,prisma,docker,vercel,cloudflare,figma&perline=7)](https://github.com/oyanmuhammad)
 
   ### "In a world where you can be anything, be kind."
   
