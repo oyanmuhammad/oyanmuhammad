@@ -5,7 +5,7 @@
   ![](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=Solana&logoColor=9945FF)
   ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
-  <h1>Oyan Muhammad</h1>
+  <h1 style="text-decoration: none;">Oyan Muhammad</h1>
 
   <h3>"In a world where you can be anything, be kind."</h3>
 
