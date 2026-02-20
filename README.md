@@ -6,7 +6,7 @@
   ![](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)
 
   <div>
-  <h1 style="text-decoration: none;">Oyan Muhammad</h1>
+  <p align="center"><b><span style="font-size:32px;">Oyan Muhammad</span></b></p>
 
   <h3>"In a world where you can be anything, be kind."</h3>
   </div>
